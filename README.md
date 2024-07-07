@@ -46,6 +46,7 @@ https://github.com/HDD-Team/back-RuStore
 ## Демонстация
 
 [DEMO](https://disk.yandex.ru/d/CHGsrcLrrUEKrA)
+[Tg_Bot](https://t.me/skfo_supporter_bot)
 
 ## Автор
 
